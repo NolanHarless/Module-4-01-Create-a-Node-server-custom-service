@@ -1,0 +1,19 @@
+{
+  "name": "module-4-01-create-a-node-server-custom-service",
+  "version": "1.0.0",
+  "description": "Building a node server for school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NolanHarless/Module-4-01-Create-a-Node-server-custom-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NolanHarless/Module-4-01-Create-a-Node-server-custom-service/issues"
+  },
+  "homepage": "https://github.com/NolanHarless/Module-4-01-Create-a-Node-server-custom-service#readme"
+}
